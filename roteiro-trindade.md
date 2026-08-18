@@ -302,37 +302,3 @@ Se fosse, "Deus é amor" voltaria a ser promessa sem fiador — Deus continuaria
 
 **"Isso não é vocês inventando um Deus com a cara do que acham bonito?"**
 Se essa vier, é a melhor pergunta da sala. Tem nome, autora e data: Karen Kilby, ano 2000, teóloga católica. O nome do problema é projeção. E a resposta honesta é: às vezes é, sim. O teste é: eu teria chegado nessa conclusão sem a Trindade? Se sim, eu não aprendi nada — só enfeitei minha opinião.
-
----
-
-## Colinha de bolso
-
-**As seis peças**
-
-1. Um só Deus — Deuteronômio 6,4 · Isaías 45,5
-2. O Pai é Deus — Primeira Carta aos Coríntios 8,6
-3. Jesus é chamado Deus e não corrige — João 1,1 · João 20,28
-4. Mentir ao Espírito é mentir a Deus — Atos dos Apóstolos 5,3-4
-5. Os três juntos e distintos — Mateus 3,16-17
-6. "Em nome", singular — Mateus 28,19
-
-Mais a extra: Paulo abre o Shemá por dentro, Coríntios 8,6, anos 50.
-
-**As datas**
-
-- c. 100 — a Didaqué manda batizar em nome do Pai, do Filho e do Espírito Santo
-- c. 213 — Tertuliano cunha *trinitas*: uma substância, três pessoas
-- 325 — Niceia: *homoousios*, consubstancial ao Pai
-- 325 a 381 — cinquenta e seis anos de crise; Atanásio exilado cinco vezes, dezessete anos fora
-- c. 375 — os capadócios: uma *ousia*, três *hypostaseis*
-- 381 — Constantinopla: a divindade do Espírito Santo
-- 589 Toledo acrescenta o *Filioque* · 1054 o cisma · 1965 as excomunhões retiradas
-- 1215 — Latrão IV: a dessemelhança é sempre maior que a semelhança
-
-**A chave** — um "o quê", três "quem".
-
-**Os erros** — trevo: partialismo · água: modalismo · sol: subordinacionismo e partialismo · família: triteísmo
-
-**Duas armadilhas** — não usar a Primeira Carta de João 5,7 (é acréscimo tardio, some das traduções modernas); e não dizer que Niceia se decidiu por um iota (o partido do *homoiousios* só aparece nos anos 350, e o "nem um iota" vem de Mateus 5,18).
-
-**O fecho** — você não é a peça que faltava. Você é escolhido.
