@@ -47,7 +47,7 @@ E tem a cena mais desconcertante do Novo Testamento. Jesus ressuscitado aparece 
 > "Senhor meu e Deus meu!"
 > — Evangelho de João, capítulo 20, versículo 28
 
-Um judeu do primeiro século, criado recitando "o Senhor nosso Deus é o único Senhor" desde criança, está olhando para um homem e chamando ele de "meu Deus". Para um judeu daquela época, isso ou é blasfêmia de apedrejar na hora, ou é a coisa mais séria já dita na história.
+Um judeu do primeiro século, criado recitando "o Senhor nosso Deus é o único Senhor" desde criança, está chamando um homem de "meu Deus". Para um judeu daquela época, isso ou é blasfêmia de apedrejar na hora, ou é a coisa mais séria já dita na história.
 
 E Jesus não corrige. Ele responde "porque me viste, creste". Ele aceita.
 
@@ -112,8 +112,6 @@ As palavras que hoje soam "de igreja" — substância, pessoa, natureza — não
 
 A palavra grega para "pessoa divina" é *hypostasis*. Vem da medicina: era a borra que assenta no fundo do copo. A latina é *persona* — em Roma, a máscara do ator, a que ele punha no rosto para a plateia saber qual personagem ele estava fazendo. E tinha um sentido pior: no direito romano, *persona* era quem tinha status, quem contava. Escravo não tinha.
 
-Guardem isso, porque volta no fim: a palavra "pessoa" começou significando máscara e cargo.
-
 Quem transplantou essa palavra para dentro de Deus foi um advogado africano chamado Tertuliano, em Cartago, por volta de 213. É dele a fórmula que o Ocidente repetiria por mil e oitocentos anos — **uma substância, três pessoas** — e é dele, em latim, a primeira aparição da palavra *trinitas*.
 
 Ano 213. Essa data é a resposta pronta para a história do Constantino: a palavra "Trindade" é cento e doze anos mais velha que o imperador que teria inventado ela. E a prática é mais velha ainda — a Didaqué, manual de comunidade de mais ou menos o ano 100, já manda batizar em nome do Pai, do Filho e do Espírito Santo.
@@ -126,7 +124,7 @@ Para ele, Jesus era a criatura mais sublime que já existiu — a primeira, a ma
 
 Mas aqui está o ponto que derruba a história do complô: **Ário foi a novidade.** A Igreja já adorava Jesus como Deus, já cantava hinos para ele, já batizava no nome dele, já morria por ele nas arenas — há quase trezentos anos, sem concílio nenhum.
 
-E a coisa pegou de um jeito difícil de imaginar hoje. Ário musicava as próprias ideias e os estivadores cantavam nas docas. Gregório de Nissa escreve que em Constantinopla você não conseguia pedir troco sem o cambista filosofar sobre o Gerado e o Não-Gerado, nem perguntar o preço do pão sem ouvir que o Pai era maior e o Filho inferior. Não era assunto de especialista, era assunto de rua — e é por isso que virou violência.
+E a coisa pegou de um jeito difícil de imaginar hoje. Ário musicava as próprias ideias e os estivadores cantavam nas docas. Gregório de Nissa escreve que em Constantinopla você não conseguia perguntar o preço do pão sem ouvir que o Pai era maior e o Filho inferior. Não era assunto de especialista, era assunto de rua — e é por isso que virou violência.
 
 ### Niceia, 325
 
@@ -152,9 +150,7 @@ Porque foi isso que aconteceu. O próprio Constantino mudou de lado antes de mor
 
 E o símbolo da resistência foi um bispo de Alexandria chamado Atanásio, exilado cinco vezes, sob quatro imperadores. Um cronista da época somou tudo: dezessete anos, seis meses e vinte dias fora.
 
-Noite de 8 para 9 de fevereiro de 356 — e a fonte é ele mesmo, em primeira pessoa. A igreja está cheia, tem gente em vigília preparando a comunhão da manhã. E o general Siriano cerca a igreja com mais de cinco mil soldados, espadas desembainhadas. E Atanásio manda o diácono continuar. Manda ler um salmo, e manda o povo responder o refrão: *"porque a sua misericórdia dura para sempre."*
-
-Ele se recusou a sair antes do povo. Só saiu porque uns monges pegaram ele e arrastaram para fora.
+Noite de 8 para 9 de fevereiro de 356 — e a fonte é ele mesmo, em primeira pessoa. A igreja está cheia, tem gente em vigília. O general Siriano cerca o prédio com mais de cinco mil soldados, espadas desembainhadas. E Atanásio manda o diácono continuar: manda ler um salmo e manda o povo responder o refrão, *"porque a sua misericórdia dura para sempre"*. Ele se recusou a sair antes do povo, e só saiu porque uns monges arrastaram ele para fora.
 
 E é justo dizer o outro lado: Atanásio é fonte interessada, escreve para se defender, e historiadores mostram que ele também usou intimidação e violência em Alexandria. Não é herói de filme. É um homem corajoso e duro.
 
@@ -174,19 +170,13 @@ O problema herdado: existiam duas palavras gregas, *ousia* e *hypostasis*, e tod
 
 Eles pegaram duas palavras sinônimas e separaram o significado à força. *Ousia* passa a ser **o que Deus é** — a natureza, o que os três têm em comum. *Hypostasis* passa a ser **quem Deus é** — cada um, distinto. E sai a fórmula: uma *ousia*, três *hypostaseis*. Uma essência, três pessoas.
 
-Imaginem o trabalho. Um sujeito em Cesareia, por volta de 375, escrevendo cartas à mão para bispos espalhados por três mil quilômetros, convencendo cada um de que duas palavras que todo mundo usava do mesmo jeito precisam, a partir de agora, significar coisas diferentes. Ele está reprogramando um idioma por carta. E consegue.
+Imaginem o trabalho: um sujeito escrevendo cartas à mão para bispos espalhados por três mil quilômetros, convencendo cada um de que duas palavras que todo mundo usava do mesmo jeito precisam, a partir de agora, significar coisas diferentes. Ele está reprogramando um idioma por carta. E consegue.
 
-### O acidente de tradução que quase rachou a Igreja
+### O acidente de tradução
 
-Essa é a minha história favorita, porque é trágica e ridícula ao mesmo tempo.
+E teve um problema que quase rachou tudo, e que é trágico e ridículo ao mesmo tempo. *Substantia*, em latim, é a tradução literal de *hypostasis* — as duas querem dizer "estar embaixo". É a mesma palavra em dois idiomas. Então quando o latino confessava "**uma** substância", o grego ouvia "**uma** hipóstase", ou seja, uma só pessoa: heresia. E quando o grego confessava "**três** hipóstases", o latino ouvia "três substâncias", ou seja, três deuses: heresia também. Cada lado, lendo a fé do outro corretamente traduzida, encontrava uma heresia — e eles acreditavam exatamente na mesma coisa.
 
-O Ocidente falava latim e confessava: "uma substância, três pessoas". O Oriente falava grego e confessava: "uma *ousia*, três *hypostaseis*". O problema é que *substantia*, em latim, é a tradução literal de *hypostasis* — *sub-stare* e *hypo-stasis* querem dizer a mesma coisa, "estar embaixo". É a mesma palavra em dois idiomas.
-
-Então traduz ao pé da letra. Quando o latino dizia "**uma** substância", o grego ouvia "**uma** hipóstase" — uma só pessoa. Heresia. Quando o grego dizia "**três** hipóstases", o latino ouvia "**três** substâncias" — três deuses. Heresia também.
-
-Cada lado, ao ler a fé do outro corretamente traduzida, encontrava uma heresia. Eles acreditavam exatamente na mesma coisa e se acusavam mutuamente havia décadas. Tem uma carta desesperada de São Jerônimo ao papa Dâmaso, do ano 377, em que ele diz: *"não se contentam com o sentido, exigem o termo. E, porque não aprendo as palavras deles, sou contado entre os hereges."*
-
-E quem destravou foi o Atanásio, já velho, em 362. Fez uma coisa raríssima na teologia e óbvia para qualquer bom mediador: parou de discutir a palavra e perguntou a cada grupo o que eles queriam dizer com ela. Descobriu que ninguém ali era herege. E declarou paz sobre o sentido, não sobre o vocabulário.
+Quem destravou foi Atanásio, já velho, em 362. Fez uma coisa raríssima na teologia e óbvia para qualquer bom mediador: parou de discutir a palavra e perguntou a cada grupo o que eles queriam dizer com ela. Descobriu que ninguém ali era herege.
 
 ### Constantinopla, 381
 
@@ -212,7 +202,7 @@ O que ela diz é: Deus é um numa coisa, e três em outra coisa completamente di
 
 Se alguém perguntar "a Trindade é um ou três?", a resposta não é "um" nem "três". É: um o quê e três quem.
 
-E aí não tem contradição nenhuma. Porque contradição, na lógica, é dizer que uma coisa é A e não-A ao mesmo tempo **e no mesmo sentido**. É um no sentido X e três no sentido Y. É como um triângulo, que tem um perímetro e três lados. Ninguém diz "que absurdo, é um ou três?".
+E aí não tem contradição. Porque contradição, na lógica, é dizer que uma coisa é A e não-A ao mesmo tempo **e no mesmo sentido**. É um no sentido X e três no sentido Y — como um triângulo, que tem um perímetro e três lados. Ninguém diz "que absurdo, é um ou três?".
 
 ### As analogias, e o nome do erro de cada uma
 
@@ -232,7 +222,7 @@ Não é porque a gente é burro nem porque a doutrina é confusa. É porque não
 
 Traduzindo: toda comparação sobre Deus, por melhor que seja, erra mais do que acerta. Não é que as metáforas ruins falham e as boas funcionam — é que quanto melhor a metáfora, maior é a distância que ela ainda não venceu.
 
-Ano de 1215. A Igreja escrevendo, no documento mais oficial que existia, que ninguém ali sabia direito do que estava falando. E continuando a falar. Isso é humildade e teimosia na mesma frase, e é a coisa mais humana do mundo. O fracasso das analogias não prova que a doutrina é fraca — prova que Deus é incomparável.
+Ano de 1215. A Igreja escrevendo, no documento mais oficial que existia, que ninguém ali sabia direito do que estava falando. E continuando a falar. Isso é humildade e teimosia na mesma frase. O fracasso das analogias não prova que a doutrina é fraca — prova que Deus é incomparável.
 
 ### A única que aponta na direção certa
 
@@ -254,23 +244,15 @@ O maior teólogo do Ocidente admitindo que "pessoa" não é a resposta certa. É
 
 ## 5. As famílias que herdaram isso
 
-Todas as grandes famílias cristãs aceitam Niceia e Constantinopla. Todas — católicos, ortodoxos, luteranos, anglicanos, presbiterianos, coptas, armênios. Todos rezam o mesmo Credo.
+Todas as grandes famílias cristãs aceitam Niceia e Constantinopla. Todas — católicos, ortodoxos, luteranos, anglicanos, presbiterianos, coptas, armênios. Todos rezam o mesmo Credo. Isso surpreende, porque a gente cresce achando que "depois da Reforma cada um inventou o seu Deus". Nesse ponto é falso: o primeiro artigo da Confissão de Augsburgo, o documento fundador do luteranismo, começa dizendo "de acordo com o decreto do Concílio de Niceia". Artigo um, antes de falar de graça, de fé, de sacramento.
 
-Isso surpreende, porque a gente cresce achando que "depois da Reforma cada um inventou o seu Deus". Nesse ponto é falso: o primeiro artigo da Confissão de Augsburgo, documento fundador do luteranismo, lido diante do imperador em 1530, começa dizendo "de acordo com o decreto do Concílio de Niceia". Artigo um. Antes de falar de graça, de fé, de sacramento.
+O que muda é por onde se começa. O jeito latino, o nosso, é como abrir o mapa: primeiro Deus como um só, depois zoom nas três pessoas. E a formulação mais afiada é de Tomás de Aquino: em Deus, a pessoa é a própria relação. Se você tira o filho de um pai humano, sobra um homem de luto. Se você "tira" o Filho, o Pai não fica de luto — o Pai simplesmente não é. E daí sai uma consequência impressionante: a única coisa que distingue as três pessoas é a direção do dar. Poder, sabedoria, bondade, eternidade, tudo idêntico. A diferença inteira é quem dá, quem recebe e quem é dado.
 
-O que muda é por onde se começa.
+O jeito grego, dos ortodoxos, é o contrário: começa por alguém, pelo Pai. Deus é um porque o Pai é um. A unidade não é um bloco, é uma origem.
 
-**O jeito latino, o nosso**, é como abrir o mapa: primeiro Deus como um só, depois zoom nas três pessoas. E a formulação mais afiada é de Tomás de Aquino: em Deus, a pessoa é a própria relação. No nosso mundo, primeiro existe o João, aí nasce um filho, e ele ganha uma relação nova — se o filho morre, o João continua existindo, devastado, mas existindo. Em Deus não tem esse "primeiro". Se você tira o filho de um pai humano, sobra um homem de luto. Se você "tira" o Filho, o Pai não fica de luto: o Pai simplesmente não é.
+E a briga real entre nós é uma palavra: *Filioque*, "e do Filho". O Credo de 381 dizia que o Espírito procede do Pai; na Espanha, em 589, acrescentaram "e do Filho". Por volta de 810 o papa Leão III concordava com a ideia mas se recusou a mexer no texto — mandou gravar o Credo, sem a palavra, em dois escudos de prata pendurados em Roma. Como quem diz: a ideia é boa, mas o texto não é meu, é de todo mundo. Duzentos anos depois outro papa mandou cantar com a palavra, e em 1054 a Igreja rachou em duas. As excomunhões só foram retiradas em 1965. Uma palavra, sobre a vida interior de Deus, novecentos e onze anos.
 
-E daí sai uma consequência impressionante: a única coisa que distingue as três pessoas é a direção do dar. Poder, sabedoria, bondade, eternidade — tudo idêntico. A diferença inteira é quem dá, quem recebe, e quem é dado.
-
-**O jeito grego, dos ortodoxos**, é o contrário: começa por alguém, pelo Pai. Deus é um porque o Pai é um. A unidade não é um bloco, é uma origem. E eles desconfiam de quem explica Deus fácil demais — toda vez que você acha que fechou a conta, trocou Deus por uma ideia sua de Deus.
-
-**E a briga real entre nós é uma palavra**: *Filioque*, "e do Filho". O Credo de 381 dizia que o Espírito procede do Pai. Na Espanha, em 589, acrescentaram "e do Filho", e foi se espalhando pelo mundo franco. Por volta de 810 o papa Leão III concordava com a ideia mas se recusou a mexer no texto — e mandou gravar o Credo, sem a palavra, em grego e latim, em dois escudos de prata, pendurados em Roma. Como quem diz: a ideia é boa, mas o texto não é meu, é de todo mundo. Duzentos anos depois outro papa mandou cantar com a palavra, e em 1054 a Igreja rachou em duas. As excomunhões só foram retiradas em 1965. Novecentos e onze anos.
-
-Uma palavra, sobre a vida interior de Deus, novecentos e onze anos. A Trindade nunca foi assunto abstrato para essa gente — era assunto que dividia impérios. Porque quem é Deus determina quem somos nós.
-
-E os que dizem não: os judeus, e o argumento deles é o Shemá, que é sério, não teimosia. Os muçulmanos — e aqui tem um detalhe que quase ninguém sabe: a "trindade" que o Alcorão nega, no capítulo 5, é Deus, Jesus **e Maria**. Essa nós também negamos. E as Testemunhas de Jeová, que vão sempre lembrar que a palavra não está na Bíblia — e nisso estão certas, como eu já disse.
+E os que dizem não: os judeus, e o argumento deles é o Shemá, que é sério, não teimosia. Os muçulmanos — e aqui tem um detalhe que quase ninguém sabe: a "trindade" que o Alcorão nega, no capítulo 5, é Deus, Jesus **e Maria**. Essa nós também negamos. E as Testemunhas de Jeová, que vão sempre lembrar que a palavra não está na Bíblia, e nisso estão certas.
 
 Uma coisa que eu peço de verdade: se depois de hoje alguém ficar com vontade de sair caçando heresia no grupo da família, então eu falei errado e a culpa é minha. A gente pode corrigir uma analogia. Nunca o irmão que usa ela de boa-fé.
 
@@ -344,14 +326,6 @@ E tem uma última coisa. Está na oração que Jesus faz na última noite, horas
 Antes da fundação do mundo não é "há muito tempo". É antes de existir tempo para medir.
 
 E reparem no segundo. Ele não pede que eles sintam um amor parecido. Pede que **o mesmo amor** — aquele que circulava dentro de Deus antes do universo existir — passe a circular dentro de gente. Esse é o último pedido que ele faz antes de ser preso.
-
-### E o que sobrou de tudo isso
-
-Vocês lembram que eu pedi para guardarem uma palavra? *Persona*. Máscara de teatro e posição social. A palavra que o escravo romano não tinha.
-
-Tertuliano, ano 213, usa para falar das três de Deus. Boécio, no século VI, para tudo no meio de um tratado técnico para perguntar o que é uma pessoa. Ricardo de São Vítor, aquele mesmo do co-amado, diz que "pessoa" não responde *o quê*, responde *quem* — e cria a fórmula: pessoa é uma existência **incomunicável**. Intransferível. Ninguém pode ser você no seu lugar. E em 1948, no artigo 6 da Declaração Universal dos Direitos Humanos: *"todo ser humano tem o direito de ser, em todos os lugares, reconhecido como pessoa perante a lei."*
-
-A palavra que em Roma significava a máscara e o cargo — a palavra que o escravo não tinha — é a mesma que o mundo escolheu para dizer que todo mundo conta, em qualquer lugar. E esse caminho passou por um monte de gente brigando sobre um assunto que não dava dinheiro nem poder para ninguém: quem é Deus.
 
 Se Deus fosse um só, o amor seria a primeira coisa que ele aprendeu. Sendo três, é a única coisa que ele nunca precisou aprender.
 
