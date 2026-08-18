@@ -16,7 +16,7 @@ Falando sério, e no fim eu explico o nome de cada uma. O trevo tem um nome. A �
 
 E não é culpa de vocês. É que a Trindade é a coisa mais mal explicada do cristianismo. Não porque seja irracional — eu vou tentar mostrar que ela é uma das construções mais bem raciocinadas que a humanidade já produziu. É que quase ninguém tem paciência de contar a história direito.
 
-Uma coisa antes de começar: ninguém viu Deus. Isso está na Bíblia, é ponto pacífico. Então o que a gente vai olhar hoje não é Deus. É o que seres humanos fizeram tentando falar de Deus. Com as palavras que tinham, a filosofia que tinham, as tintas que tinham. E, às vezes, com as armas que tinham.
+Uma coisa antes de começar: ninguém viu Deus. Isso está na Bíblia, é ponto pacífico. Então o que a gente vai olhar hoje não é Deus. É o que seres humanos fizeram tentando falar de Deus. Com as palavras que tinham, a filosofia que tinham. E, às vezes, com as armas que tinham.
 
 ---
 
@@ -29,7 +29,7 @@ São seis afirmações. Todas estão na Bíblia. Nenhuma é polêmica sozinha.
 > "Ouve, Israel: o Senhor nosso Deus é o único Senhor."
 > — Deuteronômio, capítulo 6, versículo 4
 
-Isso se chama Shemá. É a frase que o judeu recitava de manhã e de noite, e recita até hoje. É a coluna vertebral de Israel. E Isaías martela, no capítulo 45: *"Eu sou o Senhor, e não há outro."*
+Isso se chama Shemá. É a frase que o judeu recitava de manhã e de noite, e recita até hoje. É a coluna vertebral de Israel. E Isaías martela: *"Eu sou o Senhor, e não há outro."*
 
 Guardem, porque é a trava de tudo: qualquer explicação da Trindade que termine em três deuses está morta na origem. Se alguém sair daqui achando que cristão adora três, eu falei errado e a culpa é minha.
 
@@ -42,12 +42,12 @@ Guardem, porque é a trava de tudo: qualquer explicação da Trindade que termin
 
 Reparem na precisão. "Estava **com** Deus" — logo é outro, é distinto. "**Era** Deus" — logo é plenamente Deus. As duas coisas na mesma frase, com quatro palavras de intervalo. Isso não é descuido, é construção.
 
-E tem a cena mais desconcertante do Novo Testamento. Jesus ressuscitado aparece para Tomé, aquele que tinha dito que só acreditava se enfiasse o dedo. E Tomé diz:
+E tem a cena mais desconcertante do Novo Testamento. Jesus ressuscitado aparece para Tomé, aquele que dizia que só acreditava se enfiasse o dedo. E Tomé diz:
 
 > "Senhor meu e Deus meu!"
 > — Evangelho de João, capítulo 20, versículo 28
 
-Um judeu do primeiro século, monoteísta, criado recitando "o Senhor nosso Deus é o único Senhor" desde criança, está olhando para um homem e chamando ele de "meu Deus". Para um judeu daquela época, isso ou é blasfêmia de apedrejar na hora, ou é a coisa mais séria já dita na história.
+Um judeu do primeiro século, criado recitando "o Senhor nosso Deus é o único Senhor" desde criança, está olhando para um homem e chamando ele de "meu Deus". Para um judeu daquela época, isso ou é blasfêmia de apedrejar na hora, ou é a coisa mais séria já dita na história.
 
 E Jesus não corrige. Ele responde "porque me viste, creste". Ele aceita.
 
@@ -71,11 +71,11 @@ O Filho está dentro da água. O Espírito desce em forma de pomba. O Pai fala d
 > "Ide, portanto, e fazei discípulos de todas as nações, batizando-os **em nome** do Pai, e do Filho, e do Espírito Santo."
 > — Evangelho de Mateus, capítulo 28, versículo 19
 
-Em nome. Singular. Não "em nomes". Três, e um nome só. O Catecismo para justamente nisso, no parágrafo 233, para dizer que é "em nome" e não "nos nomes" desses três, porque só existe um Deus. Se fosse plural, seriam três deuses e acabou a discussão. A doutrina inteira já está costurada dentro da fórmula do batismo, mil e seiscentos anos antes de alguém escrever um tratado sobre ela.
+Em nome. Singular. Não "em nomes". Três, e um nome só. O Catecismo para justamente nisso, no parágrafo 233: é "em nome" e não "nos nomes" desses três, porque só existe um Deus. Se fosse plural, seriam três deuses e acabou a discussão. A doutrina inteira já está costurada dentro da fórmula do batismo, mil e seiscentos anos antes de alguém escrever um tratado sobre ela.
 
 ### A peça extra — a mais forte de todas
 
-Vocês lembram do Shemá? "O Senhor nosso Deus é o único Senhor." Um judeu sabia de cor, dizia todo dia, duas vezes.
+Vocês lembram do Shemá? Um judeu sabia de cor, dizia todo dia, duas vezes.
 
 Agora olhem o que Paulo faz — Paulo, que era fariseu, treinado nessa frase desde criança:
 
@@ -108,41 +108,39 @@ Tem uma frase que vocês já ouviram na internet: "a Trindade foi inventada no C
 
 ### Eles não tinham as palavras
 
-As palavras que hoje soam "de igreja" — substância, pessoa, natureza — não eram religiosas. Eram termos técnicos roubados de outras áreas. Não existia dicionário de teologia. Pegaram palavras de filósofo pagão, de médico, de advogado e de gente de teatro, e forçaram elas a dizer coisas novas.
+As palavras que hoje soam "de igreja" — substância, pessoa, natureza — não eram religiosas. Eram termos técnicos roubados de outras áreas. Não existia dicionário de teologia. Pegaram palavras de filósofo pagão, de médico e de gente de teatro, e forçaram elas a dizer coisas novas.
 
-A palavra grega para "pessoa divina" é *hypostasis*. Vem da medicina: era a borra que assenta no fundo do copo, o sedimento.
+A palavra grega para "pessoa divina" é *hypostasis*. Vem da medicina: era a borra que assenta no fundo do copo. A latina é *persona* — em Roma, a máscara do ator, a que ele punha no rosto para a plateia saber qual personagem ele estava fazendo. E tinha um sentido pior: no direito romano, *persona* era quem tinha status, quem contava. Escravo não tinha.
 
-A latina é *persona*. Em Roma, era a máscara do ator — a que ele punha no rosto para a plateia saber qual personagem ele estava fazendo. E tinha um segundo sentido pior: no direito romano, *persona* era quem tinha status, quem contava. Escravo não tinha.
-
-Guardem isso, porque volta no fim: a palavra "pessoa" começou significando máscara e cargo. Aparência e posição social.
+Guardem isso, porque volta no fim: a palavra "pessoa" começou significando máscara e cargo.
 
 Quem transplantou essa palavra para dentro de Deus foi um advogado africano chamado Tertuliano, em Cartago, por volta de 213. É dele a fórmula que o Ocidente repetiria por mil e oitocentos anos — **uma substância, três pessoas** — e é dele, em latim, a primeira aparição da palavra *trinitas*.
 
 Ano 213. Essa data é a resposta pronta para a história do Constantino: a palavra "Trindade" é cento e doze anos mais velha que o imperador que teria inventado ela. E a prática é mais velha ainda — a Didaqué, manual de comunidade de mais ou menos o ano 100, já manda batizar em nome do Pai, do Filho e do Espírito Santo.
 
-### Ário, e o slogan que virou música de rua
+### Ário
 
-Começo do século IV, Alexandria. Um padre chamado Ário começa a ensinar algo novo, com um slogan curto que grudava: *"houve um tempo em que o Filho não existia."*
+Começo do século IV, Alexandria. Um padre chamado Ário começa a ensinar algo novo, com um slogan que grudava: *"houve um tempo em que o Filho não existia."*
 
-Para ele, Jesus era a criatura mais sublime que já existiu — a primeira, a maior, acima de todos os anjos. Mas criatura. Teve começo. E Ário não era vilão de desenho animado: estava tentando proteger uma coisa que achava sagrada, que Deus é um só e não muda.
+Para ele, Jesus era a criatura mais sublime que já existiu — a primeira, a maior, acima de todos os anjos. Mas criatura. E Ário não era vilão de desenho animado: estava tentando proteger uma coisa que achava sagrada, que Deus é um só e não muda.
 
 Mas aqui está o ponto que derruba a história do complô: **Ário foi a novidade.** A Igreja já adorava Jesus como Deus, já cantava hinos para ele, já batizava no nome dele, já morria por ele nas arenas — há quase trezentos anos, sem concílio nenhum.
 
-E a coisa pegou de um jeito difícil de imaginar hoje. Ário musicava as próprias ideias e os estivadores cantavam nas docas. Sessenta anos depois, Gregório de Nissa escreve que em Constantinopla você não conseguia pedir troco sem o cambista filosofar sobre o Gerado e o Não-Gerado, nem perguntar o preço do pão sem ouvir que o Pai era maior e o Filho inferior. Hoje a gente discute futebol na fila da padaria. Lá, era isso. Não era assunto de especialista, era assunto de rua — e é por isso que virou violência.
+E a coisa pegou de um jeito difícil de imaginar hoje. Ário musicava as próprias ideias e os estivadores cantavam nas docas. Gregório de Nissa escreve que em Constantinopla você não conseguia pedir troco sem o cambista filosofar sobre o Gerado e o Não-Gerado, nem perguntar o preço do pão sem ouvir que o Pai era maior e o Filho inferior. Não era assunto de especialista, era assunto de rua — e é por isso que virou violência.
 
 ### Niceia, 325
 
 Vou contar do jeito honesto, inclusive as partes feias, porque quem esconde está vendendo uma versão.
 
-Constantino convocou, sim. Pagou tudo. Presidiu a abertura de traje completo. E nem era batizado ainda. Ele queria o império unido, e um império rachado por teologia era problema administrativo.
+Constantino convocou, pagou tudo e presidiu a abertura de traje completo. E nem era batizado ainda. Ele queria o império unido, e um império rachado por teologia era problema administrativo.
 
 Foram entre 250 e 300 bispos, e muitos chegaram marcados: a perseguição de Diocleciano tinha acabado havia poucos anos, e tinha gente ali sem um olho, com tendões cortados. Homens que já tinham pagado na carne pela fé que estavam ali para definir.
 
-O que fizeram foi escolher uma palavra: ***homoousios***. Da mesma substância. É a palavra que a gente reza toda missa quando diz "consubstancial ao Pai". E ela não está na Bíblia, e já tinha sido rejeitada num sínodo anterior sessenta anos antes. Escolheram um termo problemático porque era o único que o partido de Ário não conseguia engolir. Foi escolha tática.
+O que fizeram foi escolher uma palavra: ***homoousios***. Da mesma substância. É a palavra que a gente reza toda missa quando diz "consubstancial ao Pai". E ela não está na Bíblia, e já tinha sido rejeitada num sínodo anterior. Escolheram um termo problemático porque era o único que o partido de Ário não conseguia engolir. Foi escolha tática.
 
 E o lado sujo: Constantino mandou queimar os livros de Ário e decretou pena de morte para quem escondesse.
 
-Eu quero ser honesto com vocês: o concílio mais importante da história cristã foi convocado, financiado e presidido por um imperador não batizado que precisava de um império unido, e terminou queimando livros. Isso não invalida o resultado. Mas quem conta essa história como um episódio puramente espiritual está mentindo para vocês.
+Quero ser honesto com vocês: o concílio mais importante da história cristã foi convocado, financiado e presidido por um imperador não batizado que precisava de um império unido, e terminou queimando livros. Isso não invalida o resultado. Mas quem conta essa história como um episódio puramente espiritual está mentindo para vocês.
 
 ### Os cinquenta e seis anos que ninguém conta
 
@@ -154,15 +152,13 @@ Porque foi isso que aconteceu. O próprio Constantino mudou de lado antes de mor
 
 E o símbolo da resistência foi um bispo de Alexandria chamado Atanásio, exilado cinco vezes, sob quatro imperadores. Um cronista da época somou tudo: dezessete anos, seis meses e vinte dias fora.
 
-Tem uma cena que eu não consigo esquecer, e a fonte é ele mesmo, em primeira pessoa. Noite de 8 para 9 de fevereiro de 356. A igreja está cheia, tem gente em vigília preparando a comunhão da manhã. E o general Siriano cerca a igreja com mais de cinco mil soldados, espadas desembainhadas.
+Noite de 8 para 9 de fevereiro de 356 — e a fonte é ele mesmo, em primeira pessoa. A igreja está cheia, tem gente em vigília preparando a comunhão da manhã. E o general Siriano cerca a igreja com mais de cinco mil soldados, espadas desembainhadas. E Atanásio manda o diácono continuar. Manda ler um salmo, e manda o povo responder o refrão: *"porque a sua misericórdia dura para sempre."*
 
-E Atanásio manda o diácono continuar. Manda ler um salmo, e manda o povo responder o refrão: *"porque a sua misericórdia dura para sempre."*
-
-Cinco mil soldados invadindo uma igreja de madrugada, e o bispo manda o coro continuar cantando. Ele se recusou a sair antes do povo — só saiu porque uns monges pegaram ele e arrastaram para fora.
+Ele se recusou a sair antes do povo. Só saiu porque uns monges pegaram ele e arrastaram para fora.
 
 E é justo dizer o outro lado: Atanásio é fonte interessada, escreve para se defender, e historiadores mostram que ele também usou intimidação e violência em Alexandria. Não é herói de filme. É um homem corajoso e duro.
 
-E em 359 o imperador pressionou um concílio inteiro de bispos ocidentais, em Rimini, a assinar uma fórmula deliberadamente ambígua que abria a porta para o arianismo. E a maioria assinou. Por cansaço, por pressão, por medo. Vinte anos depois, São Jerônimo escreveu a frase que resume aquilo:
+E em 359 o imperador pressionou um concílio inteiro de bispos ocidentais, em Rimini, a assinar uma fórmula ambígua que abria a porta para o arianismo. E a maioria assinou. Por cansaço, por pressão, por medo. Vinte anos depois, São Jerônimo escreveu a frase que resume aquilo:
 
 > "O mundo inteiro gemeu, e se espantou de ver-se ariano."
 
@@ -184,17 +180,11 @@ Imaginem o trabalho. Um sujeito em Cesareia, por volta de 375, escrevendo cartas
 
 Essa é a minha história favorita, porque é trágica e ridícula ao mesmo tempo.
 
-O Ocidente falava latim e confessava: "uma substância, três pessoas". O Oriente falava grego e confessava: "uma *ousia*, três *hypostaseis*".
-
-O problema é que *substantia*, em latim, é a tradução literal de *hypostasis*. *Sub-stare* e *hypo-stasis* querem dizer exatamente a mesma coisa: "estar embaixo". É a mesma palavra em dois idiomas.
+O Ocidente falava latim e confessava: "uma substância, três pessoas". O Oriente falava grego e confessava: "uma *ousia*, três *hypostaseis*". O problema é que *substantia*, em latim, é a tradução literal de *hypostasis* — *sub-stare* e *hypo-stasis* querem dizer a mesma coisa, "estar embaixo". É a mesma palavra em dois idiomas.
 
 Então traduz ao pé da letra. Quando o latino dizia "**uma** substância", o grego ouvia "**uma** hipóstase" — uma só pessoa. Heresia. Quando o grego dizia "**três** hipóstases", o latino ouvia "**três** substâncias" — três deuses. Heresia também.
 
-Cada lado, ao ler a fé do outro corretamente traduzida, encontrava uma heresia. Eles acreditavam exatamente na mesma coisa e se acusavam mutuamente havia décadas.
-
-Ano 377, deserto da Síria. Um monge latino chamado Jerônimo — o mesmo que ia traduzir a Bíblia inteira — está entre monges gregos que exigem que ele assine "três hipóstases". Ele entra em pânico e escreve para o papa Dâmaso: *"não se contentam com o sentido, exigem o termo. E, porque não aprendo as palavras deles, sou contado entre os hereges."*
-
-Um homem, no ano 377, escrevendo desesperado para o Papa porque estão chamando ele de herege por causa de um problema de tradução. Ele acredita na mesmíssima coisa que os acusadores. Só que em outra língua.
+Cada lado, ao ler a fé do outro corretamente traduzida, encontrava uma heresia. Eles acreditavam exatamente na mesma coisa e se acusavam mutuamente havia décadas. Tem uma carta desesperada de São Jerônimo ao papa Dâmaso, do ano 377, em que ele diz: *"não se contentam com o sentido, exigem o termo. E, porque não aprendo as palavras deles, sou contado entre os hereges."*
 
 E quem destravou foi o Atanásio, já velho, em 362. Fez uma coisa raríssima na teologia e óbvia para qualquer bom mediador: parou de discutir a palavra e perguntou a cada grupo o que eles queriam dizer com ela. Descobriu que ninguém ali era herege. E declarou paz sobre o sentido, não sobre o vocabulário.
 
@@ -224,15 +214,11 @@ Se alguém perguntar "a Trindade é um ou três?", a resposta não é "um" nem "
 
 E aí não tem contradição nenhuma. Porque contradição, na lógica, é dizer que uma coisa é A e não-A ao mesmo tempo **e no mesmo sentido**. É um no sentido X e três no sentido Y. É como um triângulo, que tem um perímetro e três lados. Ninguém diz "que absurdo, é um ou três?".
 
-E tem um complemento que resolve metade das confusões, no Catecismo, parágrafo 267: as pessoas divinas são inseparáveis naquilo que são, e da mesma forma naquilo que fazem. Não existe o Pai criando sozinho, o Filho salvando sozinho e o Espírito santificando sozinho.
-
 ### As analogias, e o nome do erro de cada uma
 
-**O trevo** cai em **partialismo**. Nenhuma folha é o trevo inteiro. Se o Pai é uma folha, o Pai é um terço de Deus — e a afirmação cristã é que cada um é inteiramente Deus, e não são três deuses. Nada que se possa somar faz isso.
+**O trevo** cai em **partialismo**. Nenhuma folha é o trevo inteiro. Se o Pai é uma folha, o Pai é um terço de Deus — e a afirmação cristã é que cada um é inteiramente Deus, e não são três deuses. Nada que se possa somar faz isso. (E a história de que São Patrício usou o trevo é lenda: a primeira menção escrita é de 1726, mil e duzentos anos depois dele.)
 
-E já que estamos aqui: a história de que São Patrício usou o trevo é lenda, a primeira menção escrita é de 1726. A história real é bem melhor — um menino de dezesseis anos sequestrado por piratas, escravizado seis anos como pastor de ovelhas, que fugiu, chegou em casa e **voltou** para o país que o escravizou. E quando pega uma pena para contar a própria vida, a primeira coisa que escreve é uma profissão de fé na Trindade.
-
-**A água** — gelo, líquido, vapor — é **modalismo** puro. É a mesma água em momentos diferentes. Não é gelo *e* vapor ao mesmo tempo, é gelo *e depois* vapor. Ou seja: Deus era Pai no Antigo Testamento, virou Filho, agora é Espírito. E a peça cinco mata essa analogia numa frase: no batismo, os três estão lá ao mesmo tempo. A água não consegue ser gelo e vapor ao mesmo tempo.
+**A água** — gelo, líquido, vapor — é **modalismo** puro. É a mesma água em momentos diferentes. Não é gelo *e* vapor ao mesmo tempo, é gelo *e depois* vapor. Ou seja: Deus era Pai no Antigo Testamento, virou Filho, agora é Espírito. E a peça cinco mata essa analogia numa frase: no batismo, os três estão lá ao mesmo tempo. A água não consegue.
 
 **O sol** — fonte, raio, calor — parece a melhor e é a pior, porque erra em duas direções. O raio é derivado do sol, vem depois — isso é literalmente o argumento de Ário, **subordinacionismo**. E raio e calor saem do sol, não são o sol — partialismo de novo. Detalhe irônico: essa mesma imagem foi usada pelos ortodoxos para dizer "o raio não diminui o sol" e pelos arianos para dizer "o raio não é o sol". A mesma metáfora serviu aos dois lados.
 
@@ -240,21 +226,17 @@ E já que estamos aqui: a história de que São Patrício usou o trevo é lenda,
 
 ### Por que todas falham
 
-Não é porque a gente é burro nem porque a doutrina é confusa. É porque não existe nada no universo criado que seja como Deus.
-
-E isso não é opinião minha. Está escrito, em documento oficial, no Quarto Concílio de Latrão, em 1215:
+Não é porque a gente é burro nem porque a doutrina é confusa. É porque não existe nada no universo criado que seja como Deus. E isso não é opinião minha — está escrito, em documento oficial, no Quarto Concílio de Latrão, em 1215:
 
 > "Entre o Criador e a criatura não se pode assinalar semelhança tão grande, sem que se deva assinalar entre eles uma dessemelhança ainda maior."
 
 Traduzindo: toda comparação sobre Deus, por melhor que seja, erra mais do que acerta. Não é que as metáforas ruins falham e as boas funcionam — é que quanto melhor a metáfora, maior é a distância que ela ainda não venceu.
 
-Ano de 1215. A Igreja escrevendo, no documento mais oficial que existia, que ninguém ali sabia direito do que estava falando. E continuando a falar. Isso é humildade e teimosia na mesma frase, e é a coisa mais humana do mundo.
-
-O fracasso das analogias não prova que a doutrina é fraca. Prova que Deus é incomparável.
+Ano de 1215. A Igreja escrevendo, no documento mais oficial que existia, que ninguém ali sabia direito do que estava falando. E continuando a falar. Isso é humildade e teimosia na mesma frase, e é a coisa mais humana do mundo. O fracasso das analogias não prova que a doutrina é fraca — prova que Deus é incomparável.
 
 ### A única que aponta na direção certa
 
-Tem uma diferente, de Santo Agostinho, e ela é diferente porque muda de categoria: todas as outras são físicas, e essa é psicológica. Agostinho parou de procurar a imagem de Deus no trevo e no sol e foi procurar dentro do ser humano — porque, se o Gênesis diz que fomos feitos à imagem de Deus, a melhor pista não está numa planta. Está numa mente que ama.
+Tem uma diferente, de Santo Agostinho, e ela muda de categoria: todas as outras são físicas, e essa é psicológica. Se o Gênesis diz que fomos feitos à imagem de Deus, então a melhor pista não está numa planta. Está numa mente que ama.
 
 > "Eis que são três: aquele que ama, aquilo que é amado, e o amor."
 
@@ -262,7 +244,7 @@ Pega qualquer amor real da vida de vocês. Existem três coisas de verdade ali �
 
 Três, e um só acontecimento. Guardem isso, vai voltar no fim.
 
-Agostinho trabalhou nesse livro por mais de vinte anos. No meio do caminho o rascunho foi roubado dele e posto em circulação antes de estar pronto, e ele quase abandonou tudo. E a conclusão, depois de tudo isso, é a frase mais honesta já escrita sobre o assunto:
+Agostinho trabalhou nesse livro por mais de vinte anos, e a conclusão dele é a frase mais honesta já escrita sobre o assunto:
 
 > "Diz-se 'três pessoas' não para dizer aquilo, mas para não ficar em silêncio."
 
@@ -272,9 +254,9 @@ O maior teólogo do Ocidente admitindo que "pessoa" não é a resposta certa. É
 
 ## 5. As famílias que herdaram isso
 
-Todas as grandes famílias cristãs aceitam Niceia e Constantinopla. Todas — católicos, ortodoxos, luteranos, anglicanos, presbiterianos, coptas, armênios, sírios. Todos rezam o mesmo Credo.
+Todas as grandes famílias cristãs aceitam Niceia e Constantinopla. Todas — católicos, ortodoxos, luteranos, anglicanos, presbiterianos, coptas, armênios. Todos rezam o mesmo Credo.
 
-Isso surpreende, porque a gente cresce achando que "depois da Reforma cada um inventou o seu Deus". Nesse ponto é falso. O primeiro artigo da Confissão de Augsburgo, documento fundador do luteranismo, lido diante do imperador em 1530, começa assim: "de acordo com o decreto do Concílio de Niceia". Artigo um. Antes de falar de graça, de fé, de sacramento.
+Isso surpreende, porque a gente cresce achando que "depois da Reforma cada um inventou o seu Deus". Nesse ponto é falso: o primeiro artigo da Confissão de Augsburgo, documento fundador do luteranismo, lido diante do imperador em 1530, começa dizendo "de acordo com o decreto do Concílio de Niceia". Artigo um. Antes de falar de graça, de fé, de sacramento.
 
 O que muda é por onde se começa.
 
@@ -282,21 +264,13 @@ O que muda é por onde se começa.
 
 E daí sai uma consequência impressionante: a única coisa que distingue as três pessoas é a direção do dar. Poder, sabedoria, bondade, eternidade — tudo idêntico. A diferença inteira é quem dá, quem recebe, e quem é dado.
 
-**O jeito grego, dos ortodoxos**, é o contrário: começa por alguém, pelo Pai. Deus é um porque o Pai é um. A unidade não é um bloco, é uma origem. E eles desconfiam de quem explica Deus fácil demais — toda vez que você acha que fechou a conta, trocou Deus por uma ideia sua de Deus. Como diz Gregório de Nazianzo:
+**O jeito grego, dos ortodoxos**, é o contrário: começa por alguém, pelo Pai. Deus é um porque o Pai é um. A unidade não é um bloco, é uma origem. E eles desconfiam de quem explica Deus fácil demais — toda vez que você acha que fechou a conta, trocou Deus por uma ideia sua de Deus.
 
-> "Nem comecei a pensar na Unidade, e a Trindade me banha em seu esplendor. Nem comecei a pensar na Trindade, e a unidade toma conta de mim."
+**E a briga real entre nós é uma palavra**: *Filioque*, "e do Filho". O Credo de 381 dizia que o Espírito procede do Pai. Na Espanha, em 589, acrescentaram "e do Filho", e foi se espalhando pelo mundo franco. Por volta de 810 o papa Leão III concordava com a ideia mas se recusou a mexer no texto — e mandou gravar o Credo, sem a palavra, em grego e latim, em dois escudos de prata, pendurados em Roma. Como quem diz: a ideia é boa, mas o texto não é meu, é de todo mundo. Duzentos anos depois outro papa mandou cantar com a palavra, e em 1054 a Igreja rachou em duas. As excomunhões só foram retiradas em 1965. Novecentos e onze anos.
 
-**E a briga real entre nós é uma palavra.** Sete letras em latim: *Filioque*. "E do Filho."
+Uma palavra, sobre a vida interior de Deus, novecentos e onze anos. A Trindade nunca foi assunto abstrato para essa gente — era assunto que dividia impérios. Porque quem é Deus determina quem somos nós.
 
-O Credo de 381 dizia que o Espírito procede do Pai. Na Espanha, em 589, acrescentaram "e do Filho" como reforço local contra o arianismo dos visigodos, e foi se espalhando pelo mundo franco. Por volta de 810, o papa Leão III concordava com a ideia mas se recusou a mexer no texto — e mandou gravar o Credo, sem a palavra, em grego e latim, em dois escudos de prata, pendurados em Roma. Como quem diz: a ideia é boa, mas o texto não é meu, é de todo mundo.
-
-Duzentos anos depois, outro papa mandou cantar com a palavra, porque um imperador alemão de visita achou estranho o costume local. Os escudos de prata perderam. E em 1054 a Igreja rachou em duas. O argumento ortodoxo, aliás, é limpo: uma parte da Igreja não pode alterar sozinha um texto que a Igreja inteira definiu junta.
-
-As excomunhões só foram retiradas em 7 de dezembro de 1965. Novecentos e onze anos depois.
-
-Uma palavra. Sobre a vida interior de Deus. Novecentos e onze anos. A Trindade nunca foi assunto abstrato para essa gente — era assunto que dividia impérios. Porque quem é Deus determina quem somos nós.
-
-E os que dizem não: os judeus, e o argumento deles é o Shemá — sério, não teimosia. Os muçulmanos, e aqui tem um detalhe que quase ninguém sabe: a "trindade" que o Alcorão nega, no capítulo 5, é Deus, Jesus **e Maria**. Essa nós também negamos. E as Testemunhas de Jeová, que vão sempre lembrar que a palavra não está na Bíblia — e nisso estão certas, como eu já disse.
+E os que dizem não: os judeus, e o argumento deles é o Shemá, que é sério, não teimosia. Os muçulmanos — e aqui tem um detalhe que quase ninguém sabe: a "trindade" que o Alcorão nega, no capítulo 5, é Deus, Jesus **e Maria**. Essa nós também negamos. E as Testemunhas de Jeová, que vão sempre lembrar que a palavra não está na Bíblia — e nisso estão certas, como eu já disse.
 
 Uma coisa que eu peço de verdade: se depois de hoje alguém ficar com vontade de sair caçando heresia no grupo da família, então eu falei errado e a culpa é minha. A gente pode corrigir uma analogia. Nunca o irmão que usa ela de boa-fé.
 
@@ -321,7 +295,7 @@ Só existem três saídas, e cada uma tem um preço.
 
 **Um: Deus amava a si mesmo.** Funciona logicamente. Mas se o amor de Deus é fundamentalmente amor-próprio, então o modelo último da realidade é o narcisismo. O ser mais real do universo seria o mais autocentrado, e a nossa moral inteira fica de cabeça para baixo.
 
-**Dois: Deus precisou criar para ter o que amar.** Do lado dele, significa que Deus estava incompleto, que havia uma carência, que o universo é a terapia de Deus para a própria solidão. E do lado de vocês, significa que você existe porque Deus precisava de você. Você é útil. Você preenche uma lacuna. Isso soa bonito por dois segundos e depois vira uma coisa horrível — porque quem existe para preencher uma lacuna pode ser trocado por qualquer outra coisa que preencha a mesma lacuna.
+**Dois: Deus precisou criar para ter o que amar.** Do lado dele, significa que Deus estava incompleto, que o universo é a terapia de Deus para a própria solidão. E do lado de vocês, significa que você existe porque Deus precisava de você. Você é útil, preenche uma lacuna. Isso soa bonito por dois segundos e depois vira uma coisa horrível — porque quem existe para preencher uma lacuna pode ser trocado por qualquer outra coisa que preencha a mesma lacuna.
 
 **Três: Deus, em si mesmo, já é mais de um.** Se dentro de Deus já existe um que ama, um que é amado, e o amor que une os dois, então o amor não é uma atividade que Deus inaugurou em algum momento. É o que ele é desde sempre.
 
@@ -369,21 +343,15 @@ E tem uma última coisa. Está na oração que Jesus faz na última noite, horas
 
 Antes da fundação do mundo não é "há muito tempo". É antes de existir tempo para medir.
 
-E reparem no segundo. Ele não pede que eles sintam um amor parecido. Pede que **o mesmo amor** — aquele que circulava dentro de Deus antes do universo existir — passe a circular dentro de gente.
-
-Esse é o último pedido que ele faz antes de ser preso.
+E reparem no segundo. Ele não pede que eles sintam um amor parecido. Pede que **o mesmo amor** — aquele que circulava dentro de Deus antes do universo existir — passe a circular dentro de gente. Esse é o último pedido que ele faz antes de ser preso.
 
 ### E o que sobrou de tudo isso
 
 Vocês lembram que eu pedi para guardarem uma palavra? *Persona*. Máscara de teatro e posição social. A palavra que o escravo romano não tinha.
 
-Olha o caminho que ela fez. Tertuliano, ano 213, usa para falar das três de Deus. Boécio, no século VI, para tudo no meio de um tratado técnico para perguntar o que é uma pessoa. Ricardo de São Vítor, aquele mesmo do co-amado, corrige Boécio e diz que "pessoa" não responde *o quê*, responde *quem* — e cria a fórmula: pessoa é uma existência **incomunicável**. Intransferível. Ninguém pode ser você no seu lugar. Tomás de Aquino, no século XIII: "pessoa significa aquilo que há de mais perfeito em toda a natureza".
+Tertuliano, ano 213, usa para falar das três de Deus. Boécio, no século VI, para tudo no meio de um tratado técnico para perguntar o que é uma pessoa. Ricardo de São Vítor, aquele mesmo do co-amado, diz que "pessoa" não responde *o quê*, responde *quem* — e cria a fórmula: pessoa é uma existência **incomunicável**. Intransferível. Ninguém pode ser você no seu lugar. E em 1948, no artigo 6 da Declaração Universal dos Direitos Humanos: *"todo ser humano tem o direito de ser, em todos os lugares, reconhecido como pessoa perante a lei."*
 
-E em 1948, no artigo 6 da Declaração Universal dos Direitos Humanos: *"Todo ser humano tem o direito de ser, em todos os lugares, reconhecido como pessoa perante a lei."*
-
-A palavra que em Roma significava a máscara e o cargo — a palavra que o escravo não tinha — é a mesma que o mundo escolheu para dizer que todo mundo conta, em qualquer lugar. Eu não vou vender isso como fato provado, porque tem historiador sério que discorda. Mas até os críticos concordam com o mínimo: alguma coisa aconteceu com a palavra "pessoa" nessa discussão, e ela saiu de lá diferente de como entrou.
-
-E esse caminho passou por um monte de gente brigando sobre um assunto que não dava dinheiro nem poder para ninguém: quem é Deus.
+A palavra que em Roma significava a máscara e o cargo — a palavra que o escravo não tinha — é a mesma que o mundo escolheu para dizer que todo mundo conta, em qualquer lugar. E esse caminho passou por um monte de gente brigando sobre um assunto que não dava dinheiro nem poder para ninguém: quem é Deus.
 
 Se Deus fosse um só, o amor seria a primeira coisa que ele aprendeu. Sendo três, é a única coisa que ele nunca precisou aprender.
 
@@ -407,7 +375,7 @@ Muda a resposta a uma pergunta que você faz sozinho, de madrugada: por que eu e
 Se fosse, "Deus é amor" voltaria a ser promessa sem fiador — Deus continuaria sendo o desconhecido, e Jesus seria alguém falando bem dele. A afirmação cristã é mais forte: o que aconteceu na cruz é o que Deus é. Não uma foto de Deus. Deus.
 
 **"Isso não é vocês inventando um Deus com a cara do que acham bonito?"**
-Se essa vier, é a melhor pergunta da sala. Tem nome, autora e data: Karen Kilby, ano 2000, teóloga católica. O nome do problema é projeção. E a resposta honesta é: às vezes é, sim. Quando alguém usa a Trindade para provar que o partido dele está certo, é projeção. O teste é: eu teria chegado nessa conclusão sem a Trindade? Se sim, eu não aprendi nada — só enfeitei minha opinião.
+Se essa vier, é a melhor pergunta da sala. Tem nome, autora e data: Karen Kilby, ano 2000, teóloga católica. O nome do problema é projeção. E a resposta honesta é: às vezes é, sim. O teste é: eu teria chegado nessa conclusão sem a Trindade? Se sim, eu não aprendi nada — só enfeitei minha opinião.
 
 ---
 
