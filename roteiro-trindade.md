@@ -75,8 +75,6 @@ Em nome. Singular. Não "em nomes". Três, e um nome só. O Catecismo para justa
 
 ### A peça extra — a mais forte de todas
 
-Vocês lembram do Shemá? Um judeu sabia de cor, dizia todo dia, duas vezes.
-
 Agora olhem o que Paulo faz — Paulo, que era fariseu, treinado nessa frase desde criança:
 
 > "Para nós há **um só Deus, o Pai** [...] e **um só Senhor, Jesus Cristo**."
@@ -104,8 +102,6 @@ Tem uma frase que vocês já ouviram na internet: "a Trindade foi inventada no C
 
 ### A palavra é mais velha que Constantino
 
-As palavras que hoje soam "de igreja" — substância, pessoa, natureza — não eram religiosas. Eram termos técnicos roubados de outras áreas: *hypostasis*, em grego, vinha da medicina e era a borra que assenta no fundo do copo; *persona*, em latim, era a máscara do ator. Não existia dicionário de teologia. Eles pegaram o que tinham e forçaram essas palavras a dizer coisas novas.
-
 Quem transplantou "pessoa" para dentro de Deus foi um advogado africano chamado Tertuliano, em Cartago, por volta de 213. É dele a fórmula que o Ocidente repetiria por mil e oitocentos anos — **uma substância, três pessoas** — e é dele a primeira aparição da palavra *trinitas*. Ou seja: a palavra "Trindade" é cento e doze anos mais velha que o imperador que teria inventado ela. E a prática é mais velha ainda — a Didaqué, manual de comunidade de mais ou menos o ano 100, já manda batizar em nome do Pai, do Filho e do Espírito Santo.
 
 ### Ário
@@ -116,15 +112,11 @@ Para ele, Jesus era a criatura mais sublime que já existiu — a primeira, a ma
 
 Mas aqui está o ponto que derruba a história do complô: **Ário foi a novidade.** A Igreja já adorava Jesus como Deus, já cantava hinos para ele, já batizava no nome dele, já morria por ele nas arenas — há quase trezentos anos, sem concílio nenhum.
 
-E a coisa pegou de um jeito difícil de imaginar hoje. Ário musicava as próprias ideias e os estivadores cantavam nas docas. Gregório de Nissa escreve que em Constantinopla você não conseguia perguntar o preço do pão sem ouvir que o Pai era maior e o Filho inferior. Não era assunto de especialista, era assunto de rua — e é por isso que virou violência.
-
 ### Niceia, 325
 
 Vou contar do jeito honesto, inclusive as partes feias, porque quem esconde está vendendo uma versão.
 
 Constantino convocou, pagou tudo e presidiu a abertura de traje completo. E nem era batizado ainda. Ele queria o império unido, e um império rachado por teologia era problema administrativo.
-
-Foram entre 250 e 300 bispos, e muitos chegaram marcados: a perseguição de Diocleciano tinha acabado havia poucos anos, e tinha gente ali sem um olho, com tendões cortados — homens que já tinham pagado na carne pela fé que estavam ali para definir.
 
 O que fizeram foi escolher uma palavra: ***homoousios***, da mesma substância. É a palavra que a gente reza toda missa quando diz "consubstancial ao Pai". E ela não está na Bíblia, e já tinha sido rejeitada num sínodo anterior: escolheram um termo problemático porque era o único que o partido de Ário não conseguia engolir.
 
@@ -134,7 +126,7 @@ E o lado sujo: Constantino mandou queimar os livros de Ário e decretou pena de 
 
 E aqui está o argumento que sozinho encerra a conversa sobre complô político. Se Constantino impôs a Trindade em 325 por conveniência, então: por que os imperadores seguintes passaram meio século perseguindo justamente os trinitários?
 
-Porque foi isso que aconteceu. O próprio Constantino mudou de lado antes de morrer, Ário quase foi reabilitado, e o filho dele, Constâncio II, era abertamente pró-ariano e usou o Estado para impor isso. O símbolo da resistência foi um bispo de Alexandria chamado Atanásio, exilado cinco vezes sob quatro imperadores — dezessete anos, seis meses e vinte dias fora. Numa madrugada de fevereiro de 356, um general cercou a igreja dele com mais de cinco mil soldados, e Atanásio mandou o diácono continuar: mandou ler um salmo e mandou o povo responder o refrão, *"porque a sua misericórdia dura para sempre"*. Só saiu quando uns monges arrastaram ele para fora. E é justo dizer o outro lado: ele é fonte interessada, e historiadores mostram que também usou intimidação e violência em Alexandria. Não é herói de filme.
+Porque foi isso que aconteceu. O próprio Constantino mudou de lado antes de morrer, Ário quase foi reabilitado, e o filho dele, Constâncio II, era abertamente pró-ariano e usou o Estado para impor isso. O símbolo da resistência foi um bispo de Alexandria chamado Atanásio, exilado cinco vezes sob quatro imperadores — dezessete anos, seis meses e vinte dias fora. Numa madrugada de fevereiro de 356, um general cercou a igreja dele com mais de cinco mil soldados, e Atanásio mandou o diácono continuar: mandou ler um salmo e mandou o povo responder o refrão, *"porque a sua misericórdia dura para sempre"*. Só saiu quando uns monges arrastaram ele para fora. E é justo dizer o outro lado: ele é fonte interessada, e historiadores mostram que também usou intimidação e violência em Alexandria.
 
 E em 359 o imperador pressionou um concílio inteiro de bispos ocidentais, em Rimini, a assinar uma fórmula ambígua que abria a porta para o arianismo. E a maioria assinou. Por cansaço, por pressão, por medo. Vinte anos depois, São Jerônimo escreveu a frase que resume aquilo:
 
@@ -144,19 +136,15 @@ Numa manhã, a maioria acordou tendo assinado aquilo em que não acreditava. Iss
 
 ### Os três da Capadócia
 
-Na década de 370, três pessoas resolveram o impasse — e não foi com argumento novo, foi com vocabulário. São os Padres Capadócios: Basílio de Cesareia, o amigo dele Gregório de Nazianzo, e o irmão de Basílio, Gregório de Nissa. E tinha uma quarta que quase nunca é citada, a irmã mais velha deles, Macrina, que segundo o próprio Gregório era a mais inteligente da casa.
+Na década de 370, três pessoas resolveram o impasse — e não foi com argumento novo, foi com vocabulário. São os Padres Capadócios: Basílio de Cesareia, Gregório de Nazianzo e Gregório de Nissa. E tinha uma quarta que quase nunca é citada, a irmã mais velha, Macrina, que segundo o próprio Gregório era a mais inteligente da casa.
 
 Existiam duas palavras gregas, *ousia* e *hypostasis*, e todo mundo usava as duas como sinônimo — tanto que o texto do próprio concílio de Niceia trata as duas como a mesma coisa. Eles pegaram essas duas palavras e separaram o significado à força: *ousia* passa a ser **o que Deus é**, a natureza que os três têm em comum; *hypostasis* passa a ser **quem Deus é**, cada um distinto. Uma *ousia*, três *hypostaseis*. Uma essência, três pessoas.
-
-Imaginem o trabalho: um sujeito escrevendo cartas à mão para bispos espalhados por três mil quilômetros, convencendo cada um de que duas palavras que todo mundo usava do mesmo jeito precisam, a partir de agora, significar coisas diferentes. Ele está reprogramando um idioma por carta. E consegue.
-
-E parte da briga toda era um acidente de tradução, o que é trágico e ridículo ao mesmo tempo. *Substantia*, em latim, é a tradução literal de *hypostasis* — as duas querem dizer "estar embaixo". Então quando o latino confessava "uma substância", o grego ouvia "uma hipóstase", uma só pessoa: heresia. E quando o grego confessava "três hipóstases", o latino ouvia "três substâncias", três deuses: heresia também. Cada lado, lendo a fé do outro corretamente traduzida, encontrava uma heresia — e eles acreditavam exatamente na mesma coisa.
 
 ### Constantinopla, 381
 
 Niceia resolveu o Filho. Faltava o Espírito Santo. Em 381, o Concílio de Constantinopla completa o Credo com a frase que a gente reza até hoje: *"Creio no Espírito Santo, Senhor que dá a vida, e procede do Pai; com o Pai e o Filho é adorado e glorificado."*
 
-Cinquenta e seis anos entre um concílio e outro. Cinco exílios. Um concílio inteiro assinando o que não acreditava. E um monge chorando por causa de tradução.
+Cinquenta e seis anos entre um concílio e outro. Cinco exílios. E um concílio inteiro assinando o que não acreditava.
 
 Então quando alguém disser "Constantino inventou a Trindade", dá para responder com calma: os concílios não inventaram nada. Defenderam o que a Igreja já vivia e deram a isso uma linguagem precisa para se proteger do erro.
 
@@ -185,8 +173,6 @@ E aí não tem contradição. Porque contradição, na lógica, é dizer que uma
 **A água** — gelo, líquido, vapor — é **modalismo** puro. É a mesma água em momentos diferentes. Não é gelo *e* vapor ao mesmo tempo, é gelo *e depois* vapor. Ou seja: Deus era Pai no Antigo Testamento, virou Filho, agora é Espírito. E a peça cinco mata essa analogia numa frase: no batismo, os três estão lá ao mesmo tempo. A água não consegue.
 
 **O sol** — fonte, raio, calor — parece a melhor e é a pior, porque erra em duas direções. O raio é derivado do sol, vem depois — isso é literalmente o argumento de Ário, **subordinacionismo**. E raio e calor saem do sol, não são o sol — partialismo de novo.
-
-**A família** — pai, mãe, filho — é a mais popular hoje e a mais perigosa. Cai em **triteísmo**: três indivíduos, três consciências, três biografias. E tem um problema pior: com o trevo você erra e pronto; com a família, você desenha o Deus que já queria ter e volta com o carimbo dele dizendo que a sua preferência é sagrada.
 
 ### Por que todas falham
 
@@ -219,8 +205,6 @@ O maior teólogo do Ocidente admitindo que "pessoa" não é a resposta certa —
 ## 5. As famílias que herdaram isso
 
 Todas as grandes famílias cristãs aceitam Niceia e Constantinopla. Todas — católicos, ortodoxos, luteranos, anglicanos, presbiterianos, coptas, armênios. Todos rezam o mesmo Credo. Isso surpreende, porque a gente cresce achando que "depois da Reforma cada um inventou o seu Deus". O primeiro artigo da Confissão de Augsburgo, o documento fundador do luteranismo, começa dizendo "de acordo com o decreto do Concílio de Niceia". Artigo um, antes de falar de graça, de fé, de sacramento.
-
-O que muda é por onde se começa: o jeito latino, o nosso, é como abrir o mapa — primeiro Deus como um só, depois zoom nas três pessoas. O jeito grego, dos ortodoxos, é o contrário: começa pelo Pai, e Deus é um porque o Pai é um. A unidade não é um bloco, é uma origem.
 
 E a briga real entre nós é uma palavra: *Filioque*, "e do Filho", acrescentada ao Credo na Espanha em 589. Por volta de 810 o papa Leão III concordava com a ideia mas se recusou a mexer no texto, e mandou gravar o Credo sem a palavra em dois escudos de prata pendurados em Roma — como quem diz: a ideia é boa, mas o texto não é meu, é de todo mundo. Duzentos anos depois outro papa mandou cantar com a palavra, e em 1054 a Igreja rachou em duas. As excomunhões só foram retiradas em 1965. Uma palavra, sobre a vida interior de Deus, novecentos e onze anos.
 
