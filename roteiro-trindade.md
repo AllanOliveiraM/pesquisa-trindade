@@ -106,9 +106,7 @@ Tem uma frase que vocês já ouviram na internet: "a Trindade foi inventada no C
 
 As palavras que hoje soam "de igreja" — substância, pessoa, natureza — não eram religiosas. Eram termos técnicos roubados de outras áreas: *hypostasis*, em grego, vinha da medicina e era a borra que assenta no fundo do copo; *persona*, em latim, era a máscara do ator. Não existia dicionário de teologia. Eles pegaram o que tinham e forçaram essas palavras a dizer coisas novas.
 
-Quem transplantou "pessoa" para dentro de Deus foi um advogado africano chamado Tertuliano, em Cartago, por volta de 213. É dele a fórmula que o Ocidente repetiria por mil e oitocentos anos — **uma substância, três pessoas** — e é dele a primeira aparição da palavra *trinitas*.
-
-Ano 213. Essa data é a resposta pronta para a história do Constantino: a palavra "Trindade" é cento e doze anos mais velha que o imperador que teria inventado ela. E a prática é mais velha ainda — a Didaqué, manual de comunidade de mais ou menos o ano 100, já manda batizar em nome do Pai, do Filho e do Espírito Santo.
+Quem transplantou "pessoa" para dentro de Deus foi um advogado africano chamado Tertuliano, em Cartago, por volta de 213. É dele a fórmula que o Ocidente repetiria por mil e oitocentos anos — **uma substância, três pessoas** — e é dele a primeira aparição da palavra *trinitas*. Ou seja: a palavra "Trindade" é cento e doze anos mais velha que o imperador que teria inventado ela. E a prática é mais velha ainda — a Didaqué, manual de comunidade de mais ou menos o ano 100, já manda batizar em nome do Pai, do Filho e do Espírito Santo.
 
 ### Ário
 
@@ -126,19 +124,17 @@ Vou contar do jeito honesto, inclusive as partes feias, porque quem esconde est�
 
 Constantino convocou, pagou tudo e presidiu a abertura de traje completo. E nem era batizado ainda. Ele queria o império unido, e um império rachado por teologia era problema administrativo.
 
-Foram entre 250 e 300 bispos, e muitos chegaram marcados: a perseguição de Diocleciano tinha acabado havia poucos anos, e tinha gente ali sem um olho, com tendões cortados. Homens que já tinham pagado na carne pela fé que estavam ali para definir.
+Foram entre 250 e 300 bispos, e muitos chegaram marcados: a perseguição de Diocleciano tinha acabado havia poucos anos, e tinha gente ali sem um olho, com tendões cortados — homens que já tinham pagado na carne pela fé que estavam ali para definir.
 
-O que fizeram foi escolher uma palavra: ***homoousios***, da mesma substância — a palavra que a gente reza toda missa quando diz "consubstancial ao Pai". E ela não está na Bíblia, e já tinha sido rejeitada num sínodo anterior. Escolheram um termo problemático porque era o único que o partido de Ário não conseguia engolir. Foi escolha tática.
+O que fizeram foi escolher uma palavra: ***homoousios***, da mesma substância. É a palavra que a gente reza toda missa quando diz "consubstancial ao Pai". E ela não está na Bíblia, e já tinha sido rejeitada num sínodo anterior: escolheram um termo problemático porque era o único que o partido de Ário não conseguia engolir.
 
-E o lado sujo: Constantino mandou queimar os livros de Ário e decretou pena de morte para quem escondesse. O concílio mais importante da história cristã foi convocado, financiado e presidido por um imperador não batizado que precisava de um império unido, e terminou queimando livros. Isso não invalida o resultado. Mas quem conta essa história como um episódio puramente espiritual está mentindo para vocês.
+E o lado sujo: Constantino mandou queimar os livros de Ário e decretou pena de morte para quem escondesse. O concílio mais importante da história cristã foi convocado, financiado e presidido por um imperador não batizado que precisava de um império unido, e terminou queimando livros. Isso não invalida o resultado. Mas quem conta essa história como episódio puramente espiritual está mentindo para vocês.
 
 ### Os cinquenta e seis anos que ninguém conta
 
 E aqui está o argumento que sozinho encerra a conversa sobre complô político. Se Constantino impôs a Trindade em 325 por conveniência, então: por que os imperadores seguintes passaram meio século perseguindo justamente os trinitários?
 
-Porque foi isso que aconteceu. O próprio Constantino mudou de lado antes de morrer. Ário quase foi reabilitado. O filho dele, Constâncio II, era abertamente pró-ariano e usou o poder do Estado para impor isso. E o símbolo da resistência foi um bispo de Alexandria chamado Atanásio, exilado cinco vezes, sob quatro imperadores — dezessete anos, seis meses e vinte dias fora, segundo um cronista da época.
-
-Numa madrugada de fevereiro de 356, um general cercou a igreja dele com mais de cinco mil soldados. Atanásio mandou o diácono continuar: mandou ler um salmo e mandou o povo responder o refrão, *"porque a sua misericórdia dura para sempre"*. Só saiu quando uns monges arrastaram ele para fora. E é justo dizer o outro lado: ele é fonte interessada, escreve para se defender, e historiadores mostram que também usou intimidação e violência em Alexandria. Não é herói de filme. É um homem corajoso e duro.
+Porque foi isso que aconteceu. O próprio Constantino mudou de lado antes de morrer, Ário quase foi reabilitado, e o filho dele, Constâncio II, era abertamente pró-ariano e usou o Estado para impor isso. O símbolo da resistência foi um bispo de Alexandria chamado Atanásio, exilado cinco vezes sob quatro imperadores — dezessete anos, seis meses e vinte dias fora. Numa madrugada de fevereiro de 356, um general cercou a igreja dele com mais de cinco mil soldados, e Atanásio mandou o diácono continuar: mandou ler um salmo e mandou o povo responder o refrão, *"porque a sua misericórdia dura para sempre"*. Só saiu quando uns monges arrastaram ele para fora. E é justo dizer o outro lado: ele é fonte interessada, e historiadores mostram que também usou intimidação e violência em Alexandria. Não é herói de filme.
 
 E em 359 o imperador pressionou um concílio inteiro de bispos ocidentais, em Rimini, a assinar uma fórmula ambígua que abria a porta para o arianismo. E a maioria assinou. Por cansaço, por pressão, por medo. Vinte anos depois, São Jerônimo escreveu a frase que resume aquilo:
 
@@ -148,17 +144,13 @@ Numa manhã, a maioria acordou tendo assinado aquilo em que não acreditava. Iss
 
 ### Os três da Capadócia
 
-Na década de 370, três pessoas resolveram o impasse. E resolveram de um jeito genial, porque não foi com argumento novo. Foi com vocabulário.
+Na década de 370, três pessoas resolveram o impasse — e não foi com argumento novo, foi com vocabulário. São os Padres Capadócios: Basílio de Cesareia, o amigo dele Gregório de Nazianzo, e o irmão de Basílio, Gregório de Nissa. E tinha uma quarta que quase nunca é citada, a irmã mais velha deles, Macrina, que segundo o próprio Gregório era a mais inteligente da casa.
 
-São os Padres Capadócios, da região onde hoje é a Turquia: Basílio de Cesareia, o amigo dele Gregório de Nazianzo, e o irmão de Basílio, Gregório de Nissa. E tinha uma quarta pessoa que quase nunca é citada, a irmã mais velha deles, Macrina, que segundo o próprio Gregório era a mais inteligente da casa.
-
-O problema herdado: existiam duas palavras gregas, *ousia* e *hypostasis*, e todo mundo usava as duas como sinônimo. Tanto que o texto do próprio concílio de Niceia trata as duas como a mesma coisa.
-
-Eles pegaram duas palavras sinônimas e separaram o significado à força. *Ousia* passa a ser **o que Deus é** — a natureza, o que os três têm em comum. *Hypostasis* passa a ser **quem Deus é** — cada um, distinto. E sai a fórmula: uma *ousia*, três *hypostaseis*. Uma essência, três pessoas.
+Existiam duas palavras gregas, *ousia* e *hypostasis*, e todo mundo usava as duas como sinônimo — tanto que o texto do próprio concílio de Niceia trata as duas como a mesma coisa. Eles pegaram essas duas palavras e separaram o significado à força: *ousia* passa a ser **o que Deus é**, a natureza que os três têm em comum; *hypostasis* passa a ser **quem Deus é**, cada um distinto. Uma *ousia*, três *hypostaseis*. Uma essência, três pessoas.
 
 Imaginem o trabalho: um sujeito escrevendo cartas à mão para bispos espalhados por três mil quilômetros, convencendo cada um de que duas palavras que todo mundo usava do mesmo jeito precisam, a partir de agora, significar coisas diferentes. Ele está reprogramando um idioma por carta. E consegue.
 
-E parte da briga toda era um acidente de tradução, o que é trágico e ridículo ao mesmo tempo. *Substantia*, em latim, é a tradução literal de *hypostasis* — as duas querem dizer "estar embaixo". Então quando o latino confessava "uma substância", o grego ouvia "uma hipóstase", ou seja, uma só pessoa: heresia. E quando o grego confessava "três hipóstases", o latino ouvia "três substâncias", ou seja, três deuses: heresia também. Cada lado, lendo a fé do outro corretamente traduzida, encontrava uma heresia — e eles acreditavam exatamente na mesma coisa.
+E parte da briga toda era um acidente de tradução, o que é trágico e ridículo ao mesmo tempo. *Substantia*, em latim, é a tradução literal de *hypostasis* — as duas querem dizer "estar embaixo". Então quando o latino confessava "uma substância", o grego ouvia "uma hipóstase", uma só pessoa: heresia. E quando o grego confessava "três hipóstases", o latino ouvia "três substâncias", três deuses: heresia também. Cada lado, lendo a fé do outro corretamente traduzida, encontrava uma heresia — e eles acreditavam exatamente na mesma coisa.
 
 ### Constantinopla, 381
 
@@ -204,7 +196,7 @@ Não é porque a gente é burro nem porque a doutrina é confusa. É porque não
 
 Traduzindo: toda comparação sobre Deus, por melhor que seja, erra mais do que acerta. Não é que as metáforas ruins falham e as boas funcionam — é que quanto melhor a metáfora, maior é a distância que ela ainda não venceu.
 
-Ano de 1215. A Igreja escrevendo, no documento mais oficial que existia, que ninguém ali sabia direito do que estava falando. E continuando a falar. Isso é humildade e teimosia na mesma frase. O fracasso das analogias não prova que a doutrina é fraca — prova que Deus é incomparável.
+Ano de 1215. A Igreja escrevendo, no documento mais oficial que existia, que ninguém ali sabia direito do que estava falando. E continuando a falar. O fracasso das analogias não prova que a doutrina é fraca — prova que Deus é incomparável.
 
 ### A única que aponta na direção certa
 
@@ -228,11 +220,11 @@ O maior teólogo do Ocidente admitindo que "pessoa" não é a resposta certa —
 
 Todas as grandes famílias cristãs aceitam Niceia e Constantinopla. Todas — católicos, ortodoxos, luteranos, anglicanos, presbiterianos, coptas, armênios. Todos rezam o mesmo Credo. Isso surpreende, porque a gente cresce achando que "depois da Reforma cada um inventou o seu Deus". O primeiro artigo da Confissão de Augsburgo, o documento fundador do luteranismo, começa dizendo "de acordo com o decreto do Concílio de Niceia". Artigo um, antes de falar de graça, de fé, de sacramento.
 
-O que muda é por onde se começa. O jeito latino, o nosso, é como abrir o mapa: primeiro Deus como um só, depois zoom nas três pessoas. O jeito grego, dos ortodoxos, é o contrário — começa por alguém, pelo Pai: Deus é um porque o Pai é um, e a unidade não é um bloco, é uma origem.
+O que muda é por onde se começa: o jeito latino, o nosso, é como abrir o mapa — primeiro Deus como um só, depois zoom nas três pessoas. O jeito grego, dos ortodoxos, é o contrário: começa pelo Pai, e Deus é um porque o Pai é um. A unidade não é um bloco, é uma origem.
 
 E a briga real entre nós é uma palavra: *Filioque*, "e do Filho", acrescentada ao Credo na Espanha em 589. Por volta de 810 o papa Leão III concordava com a ideia mas se recusou a mexer no texto, e mandou gravar o Credo sem a palavra em dois escudos de prata pendurados em Roma — como quem diz: a ideia é boa, mas o texto não é meu, é de todo mundo. Duzentos anos depois outro papa mandou cantar com a palavra, e em 1054 a Igreja rachou em duas. As excomunhões só foram retiradas em 1965. Uma palavra, sobre a vida interior de Deus, novecentos e onze anos.
 
-E os que dizem não: os judeus, e o argumento deles é o Shemá, que é sério, não teimosia. Os muçulmanos — e aqui tem um detalhe que quase ninguém sabe: a "trindade" que o Alcorão nega, no capítulo 5, é Deus, Jesus **e Maria**. Essa nós também negamos. E as Testemunhas de Jeová, que vão sempre lembrar que a palavra não está na Bíblia, e nisso estão certas.
+E os que dizem não: os judeus, e o argumento deles é o Shemá, que é sério, não teimosia. Os muçulmanos — e a "trindade" que o Alcorão nega, no capítulo 5, é Deus, Jesus **e Maria**, que nós também negamos. E as Testemunhas de Jeová, que vão lembrar você de que a palavra não está na Bíblia, e nisso estão certas.
 
 Se depois de hoje alguém ficar com vontade de sair caçando heresia no grupo da família, então eu falei errado e a culpa é minha. A gente pode corrigir uma analogia. Nunca o irmão que usa ela de boa-fé.
 
@@ -255,11 +247,11 @@ Então: **antes de existir qualquer coisa — antes do universo, antes dos anjos
 
 Só existem três saídas, e cada uma tem um preço.
 
-**Um: Deus amava a si mesmo.** Funciona logicamente. Mas se o amor de Deus é fundamentalmente amor-próprio, então o modelo último da realidade é o narcisismo. O ser mais real do universo seria o mais autocentrado, e a nossa moral inteira fica de cabeça para baixo.
+**Um: Deus amava a si mesmo.** Funciona logicamente. Mas se o amor de Deus é fundamentalmente amor-próprio, então o modelo último da realidade é o narcisismo — o ser mais real do universo seria o mais autocentrado, e a nossa moral inteira fica de cabeça para baixo.
 
 **Dois: Deus precisou criar para ter o que amar.** Do lado dele, significa que Deus estava incompleto, que o universo é a terapia de Deus para a própria solidão. E do lado de vocês, significa que você existe porque Deus precisava de você. Você é útil, preenche uma lacuna. Isso soa bonito por dois segundos e depois vira uma coisa horrível — porque quem existe para preencher uma lacuna pode ser trocado por qualquer outra coisa que preencha a mesma lacuna.
 
-**Três: Deus, em si mesmo, já é mais de um.** Se dentro de Deus já existe um que ama, um que é amado, e o amor que une os dois, então o amor não é uma atividade que Deus inaugurou em algum momento. É o que ele é desde sempre.
+**Três: Deus, em si mesmo, já é mais de um.** Se dentro de Deus já existe um que ama, um que é amado, e o amor que une os dois, então o amor não é algo que Deus inaugurou em algum momento. É o que ele é desde sempre.
 
 ### O monge de Paris
 
